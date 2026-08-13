@@ -15,13 +15,13 @@ The project includes two Arduino sketches.
 
 ### Main Clock Program
 
-`Arduino_Clock.ino`
+`Orologio_matrix_8_8_main_program.ino`
 
 This is the main program for the digital clock. Upload this sketch to Arduino to run the clock.
 
 ### RTC Synchronization Program
 
-`RTC_Sync_PC.ino`
+`Orologio_matrix_8_8_rtc_program.ino`
 
 This program is used to synchronize the DS3231 RTC with the computer's system time.
 
